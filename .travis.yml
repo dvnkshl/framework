@@ -36,4 +36,5 @@ script: vendor/bin/phpunit
 matrix:
   allow_failures:
     - php: 7.1
+    - hhvm: 3.18
   fast_finish: true
