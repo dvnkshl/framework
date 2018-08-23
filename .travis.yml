@@ -4,11 +4,9 @@ dist: trusty
 group: edge
 
 php:
-  - hhvm-3.3
-  - hhvm-3.6
-  - hhvm-3.9
-  - hhvm-3.12
-  - hhvm-3.18
+  - hhvm-3.24
+  - hhvm-3.26
+  - hhvm-3.27
   - hhvm-nightly
 
 env:
